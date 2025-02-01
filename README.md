@@ -8,4 +8,4 @@
 ### "Calculator" game
 [![asciicast](https://asciinema.org/a/EAGRAGMdDNh2C4wqhucVyuQJQ.svg)](https://asciinema.org/a/EAGRAGMdDNh2C4wqhucVyuQJQ)  
 ### "GCD" game
-[![asciicast](https://asciinema.org/a/oyMmLIahjEirquVkiCFMh8FF7.svg)](https://asciinema.org/a/oyMmLIahjEirquVkiCFMh8FF7)  
+[![asciicast](https://asciinema.org/a/91VaAnr7m8RfmpTpSIYm8EYh2.svg)](https://asciinema.org/a/91VaAnr7m8RfmpTpSIYm8EYh2)  
