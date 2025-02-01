@@ -12,5 +12,9 @@
             "email": "prusov-official@yandex.ru"
         }
     ],
-    "require": {}
+    "bin": [
+        "bin/brain-games"
+    ],
+    "require": {},
+    "license": "MIT"
 }
