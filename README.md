@@ -1,5 +1,4 @@
 # Brain games. Easy games for your brain training!
-## Learning project
 ## Demonstration of project
 [![asciicast](https://asciinema.org/a/vWESLGAi8d2jwQ0ZOe9bE565J.svg)](https://asciinema.org/a/vWESLGAi8d2jwQ0ZOe9bE565J)
 ### Hexlet tests and linter status:
