@@ -3,7 +3,7 @@
 [![Actions Status](https://github.com/prusov-code/php-project-45/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/prusov-code/php-project-45/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/1b2afde1b74401c86dff/maintainability)](https://codeclimate.com/github/prusov-code/php-project-45/maintainability)
 ## About project
-This is simple CLI application, where you can play five different games.
+This is a simple CLI application, where you can play five different games.
 
 ## Setup
 ```
