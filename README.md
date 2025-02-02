@@ -9,7 +9,6 @@ This is simple CLI application, where you can play five different games.
 - PHP >=8.0
 - Make
 - Git
->>>>>>> 0aa1b95 (Update README.md and composer.json)
 ## Setup
 ```
 $ git clone https://github.com/prusov-code/brain-games.git  
