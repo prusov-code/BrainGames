@@ -1,6 +1,6 @@
 {
     "name": "hexlet/code",
-    "description": "My first PHP project on Hexlet",
+    "description": "Easy games for your brain training",
     "autoload": {
         "psr-4": {
             "Hexlet\\Code\\": "src/"
