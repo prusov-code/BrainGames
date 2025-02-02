@@ -6,7 +6,8 @@
 This is simple CLI application, where you can play five different games.
 ## Prerequisites
 - Linux, Macos, WSL
-- PHP >=8.0
+- PHP >= 8.0
+- Composer >= 2.8.0
 - Make
 - Git
 ## Setup
